@@ -1,0 +1,10 @@
+segment_id_SEG-00313
+segment_id_SEG-00483
+segment_id_SEG-02129
+land_use_Green
+land_use_Institutional
+land_use_Residential
+land_use_Water
+storm_drain_type_GratedInlet
+storm_drain_type_Manhole
+storm_drain_type_OpenChannel
